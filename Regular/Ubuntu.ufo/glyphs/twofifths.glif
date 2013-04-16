@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twofifths" format="1">
+  <advance width="874"/>
+  <unicode hex="2156"/>
+  <outline>
+    <component base="fivesuperior" xOffset="515" yOffset="-313"/>
+    <component base="fraction" xOffset="378"/>
+    <component base="twosuperior"/>
+  </outline>
+</glyph>

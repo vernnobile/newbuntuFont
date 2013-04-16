@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde_macron" format="1">
+  <advance width="376"/>
+  <outline>
+    <contour>
+      <point x="246" y="655" type="curve" smooth="yes"/>
+      <point x="269.923" y="655"/>
+      <point x="287.804" y="679.607"/>
+      <point x="296" y="696" type="curve"/>
+      <point x="341" y="676" type="line"/>
+      <point x="330.497" y="644.49"/>
+      <point x="307.684" y="616.572"/>
+      <point x="280" y="601" type="curve" smooth="yes"/>
+      <point x="269.333" y="595"/>
+      <point x="257.333" y="592"/>
+      <point x="244" y="592" type="curve" smooth="yes"/>
+      <point x="206.183" y="592"/>
+      <point x="177.423" y="613.744"/>
+      <point x="150.5" y="624" type="curve" smooth="yes"/>
+      <point x="143.5" y="626.667"/>
+      <point x="136.333" y="628"/>
+      <point x="129" y="628" type="curve" smooth="yes"/>
+      <point x="105.12" y="628"/>
+      <point x="87.1701" y="602.34"/>
+      <point x="79" y="586" type="curve"/>
+      <point x="34" y="606" type="line"/>
+      <point x="44.6646" y="637.994"/>
+      <point x="66.9599" y="666.227"/>
+      <point x="95" y="682" type="curve" smooth="yes"/>
+      <point x="105.667" y="688"/>
+      <point x="117.667" y="691"/>
+      <point x="131" y="691" type="curve" smooth="yes"/>
+      <point x="169.718" y="691"/>
+      <point x="196.902" y="667.699"/>
+      <point x="224.5" y="658.5" type="curve" smooth="yes"/>
+      <point x="231.5" y="656.167"/>
+      <point x="238.667" y="655"/>
+    </contour>
+    <contour>
+      <point x="60" y="802" type="line"/>
+      <point x="314" y="802" type="line"/>
+      <point x="314" y="738" type="line"/>
+      <point x="60" y="738" type="line"/>
+    </contour>
+  </outline>
+</glyph>

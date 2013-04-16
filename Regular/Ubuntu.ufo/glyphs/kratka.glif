@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kratka" format="1">
+  <advance width="376"/>
+  <outline>
+    <contour>
+      <point x="341" y="725" type="line"/>
+      <point x="330.496" y="650.158"/>
+      <point x="276.815" y="604"/>
+      <point x="192" y="604" type="curve" smooth="yes"/>
+      <point x="107.21" y="604"/>
+      <point x="52.5029" y="650.167"/>
+      <point x="42" y="725" type="curve"/>
+      <point x="113" y="744" type="line"/>
+      <point x="122.758" y="704.967"/>
+      <point x="145.012" y="672"/>
+      <point x="192" y="672" type="curve" smooth="yes"/>
+      <point x="238.978" y="672"/>
+      <point x="261.247" y="704.986"/>
+      <point x="271" y="744" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
